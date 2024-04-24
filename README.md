@@ -17,7 +17,7 @@ This Java application reads student scores from the user and assigns grades base
 1. Ensure that Java is installed on your system by typing `java -version` in the command prompt or terminal.
 2. Obtain the source code by downloading it from the repository or cloning it using:
    ```
-   git clone Nuneelvi_Program3.java
+   git clone https://github.com/elvisnunezzz/Grade-Assigner/blob/main/Nuneelvi_Program3.java
    ```
 3. Move to the directory where the project files are located.
 4. Compile the Java program with:

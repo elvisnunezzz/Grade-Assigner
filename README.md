@@ -54,5 +54,3 @@ Grade: F
 The program is designed to be simple and user-friendly, ideal for educational purposes, and to help new programmers understand the use of conditional logic in Java.
 
 ---
-
-Replace `<repository-url>` with the URL where your source code is hosted. This README outlines what the application does, its system requirements, how to compile and run the code, and provides a clear usage example. This structure ensures that users, including those who might be new to Java, can easily understand and operate the program.
